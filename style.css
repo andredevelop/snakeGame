@@ -1,0 +1,13 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+#canvas{
+	width: 100%;
+	height: 400px;
+	background-image: url('ga.jpg');
+	background-position: center;
+	background-size: 100% 100%;
+}
